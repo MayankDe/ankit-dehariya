@@ -53,6 +53,7 @@
   height         : 100vh;
   justify-content: left;
   align-items    : left;
+  margin: 0;
 }
 
 .words {
@@ -67,7 +68,7 @@
 .navbar {
   font-family: cursive;
   font-size  : 0;
-  background-color: #03153bc6;
+  background-color:#03153B;
 
 }
 
