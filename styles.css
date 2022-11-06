@@ -38,9 +38,7 @@
 .words span:nth-child(3) {
   animation-delay: 1s;
 }
-.navbar{
-  background-color: #001f617f;
-}
+
 /* Section 1 */
 #section1 {
   font-family    : "Archivo Black", sans-serif;
@@ -69,6 +67,7 @@
 .navbar {
   font-family: cursive;
   font-size  : 0;
+  background-color: #03153bc6;
 
 }
 
