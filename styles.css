@@ -189,7 +189,7 @@ a:hover {
   
   background-attachment: fixed;
   background-position: center;
-  background:linear-gradient( rgba(4, 12, 48, 0.760) 35%, rgba(18,53,84)60%),url("./contact1.jpg");
+  background:linear-gradient( rgba(4, 12, 48, 0.760) 35%, rgba(18,53,84)60%),url("./images/contact1.jpg");
   display: flex;
   background-repeat: no-repeat;
   align-items: center;
@@ -222,7 +222,7 @@ a:hover {
   
   background-attachment: fixed;
   background-position: center;
-  background:linear-gradient( rgba(38, 51, 107, 0.76) 35%, rgb(37, 67, 69)60%),url("./bolero.webp");
+  background:linear-gradient( rgba(38, 51, 107, 0.76) 35%, rgb(37, 67, 69)60%),url("./images/bolero.webp");
   display: flex;
   background-repeat: no-repeat;
   align-items: center;
