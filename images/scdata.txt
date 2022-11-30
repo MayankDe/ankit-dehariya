@@ -1,0 +1,3 @@
+State->TamilNadu~City->Chennai
+State->Karnataka~City->Bangalore
+State->Telangana~City->Hyderabad
